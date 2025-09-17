@@ -199,7 +199,157 @@
 
     // echo rand(5,10);
 
+
+    //constants
+    // $x =10;
+    // define("_GREETING", "Hello World!");
     
+    // // echo $x;
+    // // echo (GREETING);
+
+    // const _GREETING2 = "Hello People!";
+
+    // echo _GREETING2;
+
+
+    // function test (){
+    //     echo _GREETING2;
+    // }
+    // test();
+
+
+    // echo $x;
+    // unset(_GREETING);
+    // echo _GREETING;
+
+    // php operators
+
+    // arithmetics
+
+    // // + addition
+    //     echo 10 + 100 + 20, "<br>";
+
+    // // - subtraction
+    //     echo 10 - 100 - 20, "<br>";
+
+    // // add and sub
+    //     echo 10 - 20 + 100 - 10, "<br>";
+
+    // // * multiplication
+    //      echo 10 * 10 * 10, "<br>";
+        
+    // // / division
+    //     echo 10 / 5 / 2, "<br>";
+
+    // //multiplication and division
+    //     echo 10 / 5 / 2, "<br>";
+
+    // // add/sub and division/multi
+    //     echo 50 + 10 / 2, "<br>"; // multi/division before add/subtract
+
+    // // % modulus
+    // echo 7 % 3, "<br>"; 
+    // // ** exponential
+    //  echo 10 ** 10, "<br>"; 
+
+    //assigment
+
+    //= equals
+
+    // $x += 10;
+    // echo $x, "<br>";
+
+    // // +=
+    // $x = $x + 10;
+    // $x += 10;
+    // echo $x, "<br>";
+
+
+    // //-=
+    // $x = $x - 10;
+    // $x -= 10;
+    // echo $x, "<br>";
+
+    // // /=
+    // $x = $x / 10;
+    // $x /= 10;
+    // echo $x, "<br>";
+
+    // // *=
+    // $x = $x * 10;
+    // $x *= 10;
+    // echo $x, "<br>";
+    
+
+  
+//comparison
+// // ==equals to similar value
+// var_dump(10 == "10");
+// // === identical = similar value and data types
+// var_dump(10 == "10");
+// // != <> not equals to = not similar value
+// var_dump(10 != "10");
+// var_dump(10 <> "10");
+// // !== not identical = not similar value or not similar data types 
+// var_dump(10 !== "10");
+// // < Less than = check if first value is less than second value
+// var_dump(10 <= 10);
+// // > greater then = check if first value is grater then second value
+// var_dump(10 >= 10);
+// // <= less than or equals to
+// var_dump(10 >= 10);
+// // >= greater then or equals to
+// // <==> spaceship = check if first value less than or equals to se
+// var_dump(1 <==> 2);
+
+
+//increment and decrement
+
+//pre- increment
+
+// $x = 10;
+// echo ++$x, "<br>";
+
+// //post - increment
+// $x = 10;
+// echo $y++, "<br>";
+
+// //post - decrement
+// $x = 10;
+// echo --$y, "<br>";
+
+// //post - decrement
+// $x = 10;
+// echo $y--, "<br>";
+
+
+// $gender = "male";
+// $x = $gender == "male" ? "Mr." "Ms." ;
+
+// echo  = $gender == "male" ? "Mr." "Ms." ;
+
+// echo $x;
+
+// $color = "R" ?? "Red";
+
+// echo $color;
+
+$students = array (
+    array("name"=> "Mary", "gender" => "Female"),
+    array("name"=> "Ray", "gender" => "Male"),
+    array("name"=> "Hardy", "gender" => "Male"),
+);
+
+foreach(){
+
+
+}
+
+
+
+ 
+
+
 ?>
 </body>
 </html>
